@@ -1,4 +1,9 @@
-# CLAVY
+# CLAVY WEB APP
+
+Use with WebServeur (Apache, Nginx...) No PHP
+
+
+# CLAVY DEVELOPPEMENT
 
 ## Project setup
 ```
