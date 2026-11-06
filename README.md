@@ -1,3 +1,5 @@
+![Screenshot Clavy](clavy.png)
+
 # CLAVY WEB APP
 
 Use with WebServeur (Apache, Nginx...) No PHP
