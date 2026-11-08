@@ -1,6 +1,8 @@
-![Screenshot Clavy](clavy.png)
-
 # CLAVY WEB APP
+
+![](https://img.shields.io/badge/build-oooo-brightgreen?style=for-the-badge)
+
+![Screenshot Clavy](clavy.png)
 
 Use with WebServeur (Apache, Nginx...) No PHP
 
